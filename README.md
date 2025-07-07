@@ -76,7 +76,7 @@
   <a href="https://www.linkedin.com/in/완-허-2a4642310">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="[https://www.notion.so/hodu26](https://www.notion.so/hodu26/21da3986ce7e80f79e96eeacb2282e6f?source=copy_link)">
+  <a href="https://www.notion.so/hodu26/21da3986ce7e80f79e96eeacb2282e6f?source=copy_link">
     <img src="https://img.shields.io/badge/Notion-FFFFFF?style=for-the-badge&logo=notion&logoColor=black" alt="Notion"/>
   </a>
 </p>
