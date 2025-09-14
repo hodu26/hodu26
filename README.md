@@ -2,7 +2,7 @@
 
 - 🎓 I’m currently pursuing a B.S. in IT Engineering at University (Mar 2020 – Feb 2026 expected).  
 - ☁️ Passionate about cloud, backend, and infrastructure engineering.  
-- 🔧 I operate JCloud-based web services in my lab and campus courses.
+- 🔧 I operate Cloud-based web services in my lab and campus courses.
 - 🚀 Hands-on experience with Kubernetes cluster design & operation, CI/CD pipeline setup, and monitoring system integration.
 
 ---
